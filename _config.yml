@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zidong Chen(陈子栋)"
+title                    : "Zidong Chen （陈子栋）(under construction)"
 title_separator          : "-"
 name                     : &name "Zidong"
 description              : &description "Research Student at Imperial College London"
