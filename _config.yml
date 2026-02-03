@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zidong Chen （陈子栋）(under construction)"
+title                    : "Zidong Chen （陈子栋)"
 title_separator          : "-"
 name                     : &name "Zidong"
-description              : &description "Research Student at Imperial College London"
+description              : &description "Research Master Student at Imperial College London"
 url                      : https://zidongchen25.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZidongChen25/ZidongChen25.github.io"
