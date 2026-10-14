@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zidong is currently a PhD student at the [Safe Whole-body Intelligent Robotics Lab (SWIRL)](https://swirl.uk/) at Imperial College London, working with [Dr. Stephen James](https://stepjam.github.io/). Prior to this, he completed an MRes in Artificial Intelligence and Machine Learning at Imperial College London with Distinction, with a focus on Robotic Learning, and earned a Bachelor's degree in Mathematics from the University of Sheffield, graduating with high first-class honours. My undergraduate experience was profiled by the University of Sheffield. You can read the article [here](https://sheffield.ac.uk/mps/undergraduate/maths-student-profiles/zidong-chen).
+Zidong is currently a PhD student at [SWIRL Lab](https://swirl.uk/), Imperial College London, working with [Dr. Stephen James](https://stepjam.github.io/). Prior to this, he completed an MRes in Artificial Intelligence and Machine Learning at Imperial College London with Distinction, with a focus on Robot Learning, and earned a Bachelor's degree in Mathematics from the University of Sheffield, graduating with high first-class honours. His undergraduate experience was profiled by the University of Sheffield. You can read the article [here](https://sheffield.ac.uk/mps/undergraduate/maths-student-profiles/zidong-chen).
 
 ## News
 * **2026-1**： [Dense-Jump Flow Matching Policies](https://arxiv.org/pdf/2509.13574) is accepted by ICRA 2026! See you in Vienna! Thanks for reviewers for valuable feedbacks. (I will update the repo soon.)
